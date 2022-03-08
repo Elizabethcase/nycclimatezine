@@ -94,7 +94,6 @@ You can find out more about [the basics of riso printing here](https://issuu.com
 <img src="https://assets.bigcartel.com/product_images/326696730/IMG_4662.jpg?auto=format&fit=max&w=200" width="200">
 
 *From top to bottom*
-*2-color riso print by Leanna McAlpine
-1-color print from Genderfail
-1-color zine by Amelia Greenhall*
+
+*2-color riso print by Leanna McAlpine*; *1-color print from Genderfail*; *1-color zine by Amelia Greenhall*
 
