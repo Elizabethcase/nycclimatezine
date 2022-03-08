@@ -90,7 +90,7 @@ You can find out more about [the basics of riso printing here](https://issuu.com
 ## Here are a few images of Riso prints. 
 
 ![weather1.png](https://images.squarespace-cdn.com/content/v1/5d665d7207aca80001560a23/1596553400991-43G7R8WILXNZACKVBCT0/weather1.png?format=200w)
-![Digital Download - GenderFail Anthology of Queer Typography Vol.1](readme_assets/genderfail.jpeg)
+![Digital Download - GenderFail Anthology of Queer Typography Vol.1](readme_assets/genderfail.jpg)
 ![Image of Studio Process Journal No. 2](https://assets.bigcartel.com/product_images/326696730/IMG_4662.jpg?auto=format&fit=max&w=200)
 
 *From to to bottom:*
