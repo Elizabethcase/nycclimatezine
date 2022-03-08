@@ -36,7 +36,7 @@ You can make your zine with pen and paper (optional materials: gluestick, scisso
 
 ![riso](readme_assets/color_sep.png)
 
-# Zine requirements**
+# Zine requirements
 - Relates in some way to your research for this course
 - Number of pages is a multiple of 4 (4, 8, 12, 16, max 20) including front and back. 
 - Each page will be 5.5" x 8.5" (half-letter-size)
@@ -85,12 +85,12 @@ You can find out more about [the basics of riso printing here](https://issuu.com
 
 ## How does a Riso Work?
 
-![riso](readme_assets/riso_work)
+![riso](readme_assets/riso_work.png)
 
 ## Here are a few images of Riso prints. 
 
 ![weather1.png](https://images.squarespace-cdn.com/content/v1/5d665d7207aca80001560a23/1596553400991-43G7R8WILXNZACKVBCT0/weather1.png?format=200w)
-![Digital Download - GenderFail Anthology of Queer Typography Vol.1](https://genderfailproject.square.site/uploads/1/3/0/3/130360139/s204392786828069248_p169_i1_w1557.jpeg?format=200w)
+![Digital Download - GenderFail Anthology of Queer Typography Vol.1](https://genderfailproject.square.site/uploads/1/3/0/3/130360139/s204392786828069248_p169_i1_w1557.jpeg?auto=format&w=200)
 ![Image of Studio Process Journal No. 2](https://assets.bigcartel.com/product_images/326696730/IMG_4662.jpg?auto=format&fit=max&w=200)
 
 *From to to bottom:*
