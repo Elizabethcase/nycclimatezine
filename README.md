@@ -5,7 +5,7 @@ You can create the zine however you want using whatever materials you want! That
 
 But first! Where do you even start?
 
-> flowchart image placeholder
+![riso](readme_assets/wheretostart.png)
 
 The above chart gives you a couple of examples of how you might be able to begin drafting your zine, though these are just ideas and not meant to be restrictive. Because a zine tends to be quite short, it will probably be useful to choose a subtopic or single experience to focus on. This is part of the learning goal of this zine: how do we hone, focus, give time to, build a relationship with an idea, experience, or concept, when the whole (e.g. the climate crisis) is so massive it becomes what Timothy Morton refers to as a [hyperobject](https://www.hcn.org/issues/47.1/introducing-the-idea-of-hyperobjects)? 
 
@@ -34,7 +34,7 @@ You can make your zine with pen and paper (optional materials: gluestick, scisso
 3. Add in images, text, and other visual elements. Remember --**light colors and light values (e.g. light grey, yellow) will not show up on the riso print.** We recommend creating your zine in all black or dark grey, using textures and patterns instead of color and color value to add different dimensions to your visuals. See the RISO section for more information. 
 4. If you want a two-color zine, you will have to separate your text & images by color into two separate documents. We recommend making one main version of your zine, and then duplicating that version twice. Name each duplicate version as {CUID}\_ZINE\_{COLOR}. Delete any instances of text and images of the other color from the file. Each file should then be saved in greyscale before sending it to us.
 
-> color sep image placeholder
+![riso](readme_assets/color_sep.png)
 
 # Zine requirements**
 - Relates in some way to your research for this course
@@ -76,17 +76,18 @@ You can find out more about [the basics of riso printing here](https://issuu.com
 	- If you're doing a 2-color zine, the colors will mix (often to very cool effect!) depending on the lightness or darkness of that color when it prints. Think about that mixing when you are designing your zine! Overlap is good!
 	- This can be kind of confusing -- here is a visual example of a photograph printed in red, and a photograph separated into two colors and printed, which mixes those colors.
 
-> image placeholder for mixed color photo
+![photo color separation](readme_assets/photo.png)
 
 - Riso printers have a set number of colors available for us to use. In our case, our printer has the following colors: black, red, blue, yellow, green, fluorescent pink, violet, orange, light lime.
 	- If you are interested in 2 color printing, and the effects of mixing, we recommend you download the [Spectrolite App](https://spectrolite.app/), which is free. It was designed by a pair of printmakers, and can help you visualize how your zine will look printed in 1 or more colors. The .iso file for the colors from our printshop is available in the github.
 
-> image placeholder for color swatches
+![color swatches](readme_assets/swatches.png)
 
 ## How does a Riso Work?
-> image placeholder for how does a riso work
 
-Here are a few images of Riso prints. 
+![riso](readme_assets/riso_work)
+
+## Here are a few images of Riso prints. 
 
 ![weather1.png](https://images.squarespace-cdn.com/content/v1/5d665d7207aca80001560a23/1596553400991-43G7R8WILXNZACKVBCT0/weather1.png?format=200w)
 ![Digital Download - GenderFail Anthology of Queer Typography Vol.1](https://genderfailproject.square.site/uploads/1/3/0/3/130360139/s204392786828069248_p169_i1_w1557.jpeg?format=200w)
