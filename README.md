@@ -89,9 +89,9 @@ You can find out more about [the basics of riso printing here](https://issuu.com
 
 ## Here are a few images of Riso prints. 
 
-<img src="https://images.squarespace-cdn.com/content/v1/5d665d7207aca80001560a23/1596553400991-43G7R8WILXNZACKVBCT0/weather1.png?format=200w" width="200")>
+<img src="https://images.squarespace-cdn.com/content/v1/5d665d7207aca80001560a23/1596553400991-43G7R8WILXNZACKVBCT0/weather1.png?format=200w" width="200">
 <img src="readme_assets/genderfail.jpg" width="200">
-<img src="https://assets.bigcartel.com/product_images/326696730/IMG_4662.jpg?auto=format&fit=max&w=200" width="200")
+<img src="https://assets.bigcartel.com/product_images/326696730/IMG_4662.jpg?auto=format&fit=max&w=200" width="200">
 
 *From left to right*
 *2-color riso print by Leanna McAlpine
