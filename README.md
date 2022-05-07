@@ -1,4 +1,4 @@
-These resources are for a zine workshop currently being run at Columbia University in partnership with Nathan Lenssen and his course on "Climate CHange Impacts on Humans in New York City." That said, feel free to use and adapt these resources if they are useful to you!
+These resources are for a zine workshop currently being run at Columbia University in partnership with Nathan Lenssen and his course on "Climate Change Impacts on Humans in New York City." That said, feel free to use and adapt these resources if they are useful to you! This work was funded in part by the 2022 Columbia Science and Society Seed Grant. 
 
 # Workflow
 You can create the zine however you want using whatever materials you want! That's the beauty of zines in general -- anyone can make one, with whatever supplies they have on hand. For the sake of our short timeline, we've created a couple of workflows: one analogue, one digital. These will be rough and general guides to the ideation, creation, and compilation of your zine.
